@@ -1,8 +1,8 @@
 # Operating Systems
 
-## CECS 326: Section 1 (1136)
+## CECS 326: Section 1 (1126)
 
-### Spring 2023
+### Spring 2024
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
@@ -73,23 +73,23 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 ### Tentative Class Schedule
 
-|  Week      | Subject                                  |
-|------------|------------------------------------------|
-| Jan 19, 23 | Introduction to Operating Systems (Ch 1) |
-| Feb  1     | Processes and Threads (Ch 2)             |
-| Feb  6     | Processes and Threads, ctd               |
-| Feb 13     | First Midterm, Memory Management (Ch 3)  |
-| Feb 20     | Memory Management, ctd                   |
-| Feb 27     | Deadlocks                                |
-| Mar  6     | Deadlocks, ctd                           |
-| Mar 13     | I/O (ch 5)                               |
-| Mar 20     | I/O, ctd                                 |
-| Mar 27     | **Spring Break**                         |
-| Apr  3     | Second Midterm, File Systems (Ch 6)      |
-| Apr 10     | File Systems, ctd                        |
-| Apr 17     | Virtualization (Ch 7)                    |
-| Apr 24     | Virtualization, ctd                      |
-| May  1, 8  | Case Study, Final Exam                   |
+| Week | Subject                                  |
+|------|------------------------------------------|
+| 1    | Introduction to Operating Systems (Ch 1) |
+| 2    | Processes and Threads (Ch 2)             |
+| 3    | Processes and Threads, ctd               |
+| 4    | First Midterm, Memory Management (Ch 3)  |
+| 5    | Memory Management, ctd                   |
+| 6    | Deadlocks                                |
+| 7    | Deadlocks, ctd                           |
+| 8    | I/O (ch 5)                               |
+| 9    | I/O, ctd                                 |
+| 10   | **Spring Break**                         |
+| 11   | Second Midterm, File Systems (Ch 6)      |
+| 12   | File Systems, ctd                        |
+| 13   | Virtualization (Ch 7)                    |
+| 14   | Virtualization, ctd                      |
+| 15-16| Case Study, Final Exam                   |
 
 ### Computer Software
 
